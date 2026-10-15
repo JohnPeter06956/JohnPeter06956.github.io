@@ -57,8 +57,7 @@ fetch("data/projects.json")
 
 
 
-const githubUsername = "JohnPeterBullos.github.io";
-
+const githubUsername = "JohnPeterBullos";
 const githubURL =
     `https://api.github.com/users/${githubUsername}/repos?sort=updated&per_page=5`;
 
