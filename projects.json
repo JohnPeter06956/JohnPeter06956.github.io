@@ -5,7 +5,7 @@
         "technologies": "Laravel, PHP, MySQL, Blade, HTML, CSS",
         "role": "Developer",
         "screenshot": "student-system.jpg",
-        "link": "https://github.com/"
+        "link": "https://github.com/JohnPeterBullos/JohnPeterBullos.github.io"
     },
     {
         "title": "Laravel Product Management System",
@@ -13,7 +13,7 @@
         "technologies": "Laravel, PHP, MySQL, Blade, HTML, CSS",
         "role": "Developer",
         "screenshot": "product-system.jpg",
-        "link": "https://github.com/"
+        "link": "https://github.com/JohnPeterBullos/JohnPeterBullos.github.io"
     },
     {
         "title": "Sensor-Driven Mobile App",
@@ -21,6 +21,6 @@
         "technologies": "React Native, Expo, JavaScript",
         "role": "Developer",
         "screenshot": "mobile-app.jpg",
-        "link": "https://github.com/"
+        "link": "https://github.com/JohnPeterBullos/JohnPeterBullos.github.io"
     }
 ]
