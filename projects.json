@@ -6,6 +6,7 @@
         "role": "Developer",
         "screenshot": "student-system.jpg",
         "link": "https://github.com/JohnPeterBullos/JohnPeterBullos.github.io"
+        "demo": ""
     },
     {
         "title": "Laravel Product Management System",
@@ -14,6 +15,7 @@
         "role": "Developer",
         "screenshot": "product-system.jpg",
         "link": "https://github.com/JohnPeterBullos/JohnPeterBullos.github.io"
+        "demo": ""
     },
     {
         "title": "Sensor-Driven Mobile App",
@@ -22,5 +24,6 @@
         "role": "Developer",
         "screenshot": "mobile-app.jpg",
         "link": "https://github.com/JohnPeterBullos/JohnPeterBullos.github.io"
+        "demo": ""
     }
 ]
